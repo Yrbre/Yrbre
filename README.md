@@ -53,9 +53,12 @@ const operator = {
 
 ### `[03]` ACTIVE.MISSIONS
 
-<a href="https://github.com/Yrbre/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yrbre&repo=Portfolio&bg_color=09090b&title_color=5ec8d8&text_color=d4d4d8&icon_color=5ec8d8&border_color=27272a" alt="Portfolio" />
-</a>
+**[Portfolio](https://github.com/Yrbre/Portfolio)**: portfolio pribadi, React + TypeScript + Tailwind.
+
+<a href="https://github.com/Yrbre/Portfolio"><img src="https://img.shields.io/badge/repo-Portfolio-5ec8d8?style=flat-square&labelColor=18181b&logo=github&logoColor=5ec8d8" alt="Portfolio repo" /></a>
+<img src="https://img.shields.io/github/languages/top/Yrbre/Portfolio?style=flat-square&labelColor=18181b&color=3f3f46" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/Yrbre/Portfolio?style=flat-square&labelColor=18181b&color=3f3f46&label=last%20commit" alt="Last commit" />
+<img src="https://img.shields.io/github/stars/Yrbre/Portfolio?style=flat-square&labelColor=18181b&color=3f3f46" alt="Stars" />
 
 <sub><code>&gt; more missions deploying soon\_</code></sub>
 
@@ -63,8 +66,10 @@ const operator = {
 
 ### `[04]` TELEMETRY
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yrbre&show_icons=true&bg_color=09090b&title_color=5ec8d8&text_color=d4d4d8&icon_color=5ec8d8&border_color=27272a&ring_color=5ec8d8" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yrbre&layout=compact&bg_color=09090b&title_color=5ec8d8&text_color=d4d4d8&border_color=27272a" alt="Top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yrbre&theme=github_dark" alt="Stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yrbre&theme=github_dark" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Yrbre&background=09090b&border=27272a&stroke=27272a&ring=5ec8d8&fire=5ec8d8&currStreakNum=e4e4e7&sideNums=e4e4e7&currStreakLabel=5ec8d8&sideLabels=a1a1aa&dates=71717a" alt="Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yrbre&bg_color=09090b&color=a1a1aa&line=5ec8d8&point=e4e4e7&area=true&area_color=5ec8d8&hide_border=true&title_color=d4d4d8" width="100%" alt="Activity graph" />
 
