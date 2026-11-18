@@ -1,5 +1,5 @@
 <!-- ================= BOOT ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:18181b&height=170&text=YRBRE&fontColor=e4e4e7&fontSize=56&fontAlign=24&fontAlignY=46&desc=WEB%20ENGINEER%20%2F%2F%20NODE%20TANGERANG%20%2F%2F%20v2.077&descAlign=30&descAlignY=72&descSize=13" width="100%" alt="YRBRE" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:18181b&height=170&text=YRBRE&fontColor=e4e4e7&fontSize=56&fontAlign=24&fontAlignY=46&desc=WEB%20ENGINEER%20%2F%2F%20NODE%20TANGERANG%20%2F%2F%20v2026&descAlign=30&descAlignY=72&descSize=13" width="100%" alt="YRBRE" />
 
 <a href="https://github.com/Yrbre">
   <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&duration=2400&pause=900&color=5EC8D8&vCenter=true&width=560&lines=%3E+booting+yrbre+...+ok;%3E+identity%3A+Bariq+Fajar;%3E+modules%3A+laravel+%7C+react+%7C+typescript;%3E+status%3A+online+%2F%2F+open+to+work" alt="Boot sequence" />
